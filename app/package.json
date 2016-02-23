@@ -1,0 +1,22 @@
+{
+  "name": "blog-require",
+  "version": "1.0.0",
+  "description": "Demo for logicmanialab.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harilal/blog-require.git"
+  },
+  "keywords": [
+    "RequireJs"
+  ],
+  "author": "Logicamania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harilal/blog-require/issues"
+  },
+  "homepage": "https://github.com/harilal/blog-require#readme"
+}

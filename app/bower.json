@@ -1,0 +1,34 @@
+{
+  "name": "blog-require",
+  "version": "1.0.0",
+  "homepage": "https://github.com/harilal/blog-require",
+  "description": "Demo for Logicmanialab.com",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "RequireJS"
+  ],
+  "authors": [
+    "logicmania"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "~2.1.4",
+    "requirejs-plugins": "~1.0.3",
+    "requirejs-text": "latest",
+    "underscore": "1.8.3",
+    "page": "latest",
+    "r.js": "latest"
+  }
+}

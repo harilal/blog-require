@@ -2,7 +2,7 @@
   "name": "blog-require",
   "version": "1.0.0",
   "description": "Demo for logicmanialab.com",
-  "main": "index.html",
+  "main": "dev/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/harilal/blog-require/issues"
   },
-  "homepage": "https://github.com/harilal/blog-require#readme"
+  "homepage": "https://github.com/harilal/blog-require#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1"
+  }
 }

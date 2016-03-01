@@ -23,12 +23,12 @@
     "tests"
   ],
   "dependencies": {
-    "requirejs": "latest",
     "jquery": "~2.1.4",
+    "page": "visionmedia/page.js#~1.6.4",
+    "r.js": "latest",
+    "requirejs": "latest",
     "requirejs-plugins": "~1.0.3",
     "requirejs-text": "latest",
-    "underscore": "1.8.3",
-    "page": "latest",
-    "r.js": "latest"
+    "underscore": "1.8.3"
   }
 }

@@ -1,0 +1,3 @@
+define(['page'], function(page) {
+
+});
